@@ -26,7 +26,7 @@
 #include <elf.h>
 
 static const char* UNITY_THREAD_NAMES[] = {
-    "UnityM123ain",
+    "UnityMain",
     "JobWorker",
     "UnityGfxDeviceW",
     "FMOD stream",
